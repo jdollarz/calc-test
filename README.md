@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Version Number
+65713207ceeb79079d357a5d7eb94d29fc12254c 
 
 ## Available Scripts
 
@@ -7,6 +8,7 @@ In the project directory, you can run:
 ### `npm i`
 Run this command first to install the project dependencies
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### `npm start`
 
@@ -35,5 +37,4 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Version Number
-65713207ceeb79079d357a5d7eb94d29fc12254c 
+
