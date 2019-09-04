@@ -1,0 +1,27 @@
+.calculator-button {
+    background-color: #403e3e;
+    box-shadow: none;
+    color: #ffffff;
+    display: flex;
+    font: 20px 'Roboto', sans-serif;
+    outline: none;
+    padding: 28px 34px;
+    justify-content: center;
+    align-items: center;
+}
+
+.calculator-button:active {
+    background-color: #525151;
+}
+
+.calculator-button--long {
+    flex: 2 0 0;
+}
+
+.calculator-button--function {
+    background-color: #949494;
+}
+
+.calculator-button--operator {
+    background-color: #fc8207;
+}

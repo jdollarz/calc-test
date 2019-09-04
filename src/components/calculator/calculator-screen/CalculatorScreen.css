@@ -1,0 +1,9 @@
+.calculator-screen {
+    background-color: #000000;
+    color: #ffffff;
+    display: flex;
+    justify-content: flex-end;
+    font: 40px 'Roboto', sans-serif;
+    padding: 20px;
+    flex: 1;
+}

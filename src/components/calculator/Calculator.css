@@ -1,0 +1,22 @@
+.calculator {
+    background-color: #000000;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.calculator-full-width-row {
+    width: 100%;
+}
+
+.calculator-row-button {
+    display: flex;
+    width: 100%;
+}
+.calculator-row-button  button {
+    width: 25%;
+}
+
+.logo {
+    width: 100px;
+    padding: 10px;
+}
